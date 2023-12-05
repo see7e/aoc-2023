@@ -1,2 +1,7 @@
 # All input files
 **/input_*
+
+# Virtual environment
+.venv/
+venv/
+env/
