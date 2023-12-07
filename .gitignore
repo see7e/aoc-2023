@@ -1,5 +1,5 @@
 # All input files
-**/input_*
+**/*.txt
 
 # Virtual environment
 .venv/
